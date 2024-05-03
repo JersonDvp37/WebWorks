@@ -1,0 +1,31 @@
+.logbtn{
+    margin-top: 5px;
+    position: absolute;
+    width: 60px;
+    background-color: rgb(0, 0, 0);
+    padding: 12px 95px;
+    border-radius: 20px; 
+    margin-top: 60px;   
+    opacity: 100%;
+}
+.logbtn:hover{
+    background-color: rgb(0, 255, 128);
+}
+.sgnbtn{
+    margin-top: 5px;
+    position: absolute;
+    width: 60px;
+    background-color: rgb(0, 0, 0);
+    padding: 12px 95px;
+    border-radius: 20px; 
+    margin-top: 112px;   
+    opacity: 100%;
+}
+.sgnbtn:hover{
+    background-color: rgb(0, 255, 128);
+}
+.showUser{
+    position: absolute;
+    margin-top: -1462px;
+    margin-left: 1110px;
+}

@@ -1,0 +1,227 @@
+
+*{
+    margin: 0;
+    margin-left: 0%;
+    margin-right: 0%;
+    padding: 0;
+}
+.time2{
+    margin-top: 5px;
+    position: absolute;
+    width: 250px;
+    height: 40px;
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(0, 255, 85);
+    box-shadow: 0px 0px 9px;
+    margin-left: 1018px;
+    margin-top: 56px;
+    border-radius: 10px;
+    opacity: 90%;
+}
+.logbtn2{
+    margin-top: 5px;
+    position: absolute;
+    width: 60px;
+    background-color: rgb(19, 19, 19);
+    padding: 20px 115px;
+    border-radius: 10px; 
+    margin-top: 53px;   
+    opacity: 100%;
+    margin-left: 370px;
+}
+.logbtn2:hover{
+    background-color: rgb(0, 255, 128);
+}
+.sgnbtn2{
+    margin-top: 5px;
+    position: absolute;
+    width: 60px;
+    background-color: rgb(0, 0, 0);
+    padding: 20px 115px;
+    border-radius: 10px; 
+    margin-top: 53px;   
+    opacity: 100%;
+    margin-left: 640px;
+}
+.sgnbtn2:hover{
+    background-color: rgb(0, 255, 128);
+}
+.showUser3{
+    position: absolute;
+    margin-top: -968px;
+    margin-left: 1020px;
+}
+.nom{
+    size: 50px;
+    height: 27px;
+    width: 320px;
+    font-size: 18px;
+    border-radius: 5px;
+    text-align:justify;
+}
+.contact{
+    size: 50px;
+    height: 27px;
+    width: 320px;
+    font-size: 18px;
+    border-radius: 5px;
+    text-align:justify;
+}
+.opera{
+    size: 50px;
+    height: 27px;
+    width: 320px;
+    font-size: 18px;
+    border-radius: 5px;
+    text-align:justify;
+}
+.tech{
+    size: 50px;
+    height: 32px;
+    width: 323px;
+    font-size: 18px;
+    border-radius: 5px;
+    text-align:justify;
+}
+.tempoimpact{
+    size: 50px;
+    height: 30px;
+    width: 323px;
+    font-size: 18px;
+    border-radius: 5px;
+    text-align:justify;
+}
+.distrit{
+    size: 50px;
+    height: 32px;
+    width: 323px;
+    font-size: 18px;
+    border-radius: 5px;
+    text-align:justify;
+}
+.bairr{
+    size: 50px;
+    height: 27px;
+    width: 320px;
+    font-size: 18px;
+    border-radius: 5px;
+    text-align:justify;
+}
+.geograf{
+    size: 50px;
+    height: 32px;
+    width: 323px;
+    font-size: 18px;
+    border-radius: 5px;
+    text-align:justify;
+}
+.descri{
+    size: 50px;
+    height: 160px;
+    width: 843px;
+    font-size: 18px;
+    border-radius: 5px;
+    text-align:justify;
+}
+.checkGap{
+    align-content: space-between;
+}
+.check2{
+    width: 50px;
+    height:  17px;
+    margin-left: -18px;
+}
+.submeter{
+    size: 50px;
+    height: 35px;
+    width: 840px;
+    font-size:18px;
+    color: rgb(0, 0, 0);
+    border-radius: 5px;
+    text-align:justify;
+    text-align: center;
+}
+.submeter:hover{
+    background-color:rgb(33, 255, 118) ;
+}
+.box{
+    margin-left: 150px;
+    margin-top: 30px;
+}
+.titulo{
+    width: 1200px;
+    position: absolute;
+    margin-left: 90px;
+    margin-top: 390px;
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+}
+.subtitulo{
+    position: absolute;
+    margin-left: 505px;
+    margin-top: -95px;
+    color: rgb(24, 98, 141);
+}
+.formInferior{
+    margin-top: 65px;
+}
+.formPart{
+    margin-left:525px;
+    margin-top: -413px;
+}
+.formularios{
+    position: absolute;
+    margin-top: 50px;
+}
+.bodysize{
+    height: 2050px;
+}
+.allForm{
+    margin-top: 1030px;
+    margin-left: 100px;
+}
+.condicoes{
+    margin-left: -15px;
+}
+.estado{
+    width: 15px;
+    height: 15px;
+}
+.formHelp{
+    position: absolute;
+    margin-top: -69px;
+    margin-left: 420px;
+    font-size: 17px;
+}
+.time{
+    position: absolute;
+    width: 250px;
+    height: 40px;
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(0, 255, 85);
+    box-shadow: 0px 0px 9px;
+    margin-left: 1018px;
+    margin-top: 43px;
+    border-radius: 10px;
+    opacity: 90%;
+}
+.user3{
+    position: absolute;
+    width: 28px;
+    margin-top: 62px;
+    margin-left: 1025px;
+}
+.formBacck{
+    width: 91%;
+    height: 1300px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 650px;
+    margin-left: 60px;
+    opacity: 100%;
+    position: absolute;
+    z-index: -1;
+    border-radius: 50px;
+    border: 2px;
+    border-style: solid;
+    border-color: rgb(114, 114, 114);
+}

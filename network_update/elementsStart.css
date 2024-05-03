@@ -1,0 +1,193 @@
+*{
+    margin: 0;
+    margin-left: 0%;
+    margin-right: 0%;
+    padding: 0;
+}
+.showUser4{
+    position: absolute;
+    margin-top: -966px;
+    margin-left: 1120px;
+}
+.logoback{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    border-radius: 30px;
+    background-color: rgb(0, 0, 0);
+    margin-top: 75px ;
+    margin-left: 80px;
+    opacity: 70%;
+}
+.fundo{
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+    margin-top: 450px;
+    opacity: 20%;
+}
+.fundo2{
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+    margin-top: 1250px;
+    opacity: 50%;
+}
+.tela{
+    width: 100%;
+    background-position: center;
+    box-shadow: 0px 0px 8px 0px;
+    float:none;
+    position: absolute;
+    top: auto;
+    z-index: 0;
+}
+.logo{
+    width: 150px;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 106px;
+    z-index: 1;
+}
+.line{
+    position: absolute;
+    width: 85%; 
+    background-color: rgb(112, 250, 169);
+    height: 90px;
+    margin-top: 730px;
+    margin-left: 60px;
+}
+.line2{
+    position: absolute;
+    width: 75%; 
+    background-color: rgb(125, 253, 178);
+    height: 45px;
+    margin-top: 1250px;
+    margin-left: 280px;
+}
+.formline2{
+    position: absolute;
+    width: 90%;
+    height: 2px;
+    background-color: rgb(0, 0, 0);
+    margin-top: 290px;
+    margin-left: 60px;
+}
+.conjuntoIcn{
+    position: absolute;
+    flex-direction: row;
+    margin-top: 539px;
+    margin-left: -45px;
+}
+.iconDsc{
+    position: absolute;
+    flex-direction: row;
+    margin-top: 620px;
+    margin-left: -45px;
+}
+.iconTitle{
+    font-size: 13px;
+    margin-top: 35.45%;
+    margin-left: 480px;
+    position: absolute;
+    color: rgb(254, 255, 255);
+    font-family:Arial, Helvetica, sans-serif;
+    z-index: 2;  
+}
+.iconTitle22{
+    font-size: 13px;
+    margin-top: 48.1%;
+    margin-left: 480px;
+    position: absolute;
+    color: rgb(254, 255, 255);
+    font-family:Arial, Helvetica, sans-serif;
+    z-index: 2;  
+}
+.iconAntena{
+    width: 100px;
+    margin-top: 50.5%;
+    margin-left: 230px;
+    position: absolute;
+    color: rgb(24, 98, 141);
+    font-family:Arial, Helvetica, sans-serif;
+    z-index: 1;
+}
+.iconManutencao{
+    width: 100px;
+    margin-top: 64.5%;
+    margin-left: 532px;
+    position: absolute;
+    color: rgb(24, 98, 141);
+    font-family:Arial, Helvetica, sans-serif;
+    z-index: 1;
+}
+.iconInt{
+    width: 100px;
+    margin-top: 78.3%;
+    margin-left: 840px;
+    position: absolute;
+    color: rgb(24, 98, 141);
+    font-family:Arial, Helvetica, sans-serif;
+    z-index: 1;
+}
+.iconCom{
+    width: 100px;
+    margin-top: 93.2%;
+    margin-left: 1140px;
+    position: absolute;
+    color: rgb(24, 98, 141);
+    font-family:Arial, Helvetica, sans-serif;
+    z-index: 1;
+}
+.antenaIcn{
+    width: 100px;
+    margin-top: -20px;
+    margin-left: 210px;
+    position: absolute;
+    z-index: 1;
+    padding: 20px 20px;
+    border-radius: 50%;
+    border: 3px;;
+    border-style: solid;
+    border-color: rgb(31, 255, 124);
+    background-color: white;
+}
+.manutencaoIcn{
+    width: 100px;
+    margin-top: -20px;
+    margin-left: 520px;
+    position: absolute;
+    z-index: 1;
+    padding: 20px 20px;
+    border-radius: 50%;
+    border: 3px;;
+    border-style: solid;
+    border-color: rgb(31, 255, 124);
+    background-color: rgb(255, 255, 255);
+}
+.internetIcn{
+    width: 100px;
+    margin-top: -20px;
+    margin-left: 820px;
+    position: absolute;
+    z-index: 1;
+    padding: 20px 20px;
+    border-radius: 50%;
+    border: 3px;;
+    border-style: solid;
+    border-color: rgb(31, 255, 124);
+    background-color: white;
+}
+.comentIcn{
+    width: 100px;
+    margin-top: -20px;
+    margin-left: 1120px;
+    position: absolute;
+    z-index: 1;
+    padding: 20px 20px;
+    border-radius: 50%;
+    border: 3px;;
+    border-style: solid;
+    border-color: rgb(31, 255, 124);
+    background-color: white;
+}

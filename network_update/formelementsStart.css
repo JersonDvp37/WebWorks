@@ -1,0 +1,90 @@
+
+*{
+    margin: 0;
+    margin-left: 0%;
+    margin-right: 0%;
+    padding: 0;
+}
+.box{
+    margin-left: 150px;
+    margin-top: 30px;
+}
+
+.titulo{
+    width: 1200px;
+    position: absolute;
+    margin-left: 90px;
+    margin-top: 590px;
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+}
+.subtitulo2{
+    position: absolute;
+    margin-left: 45px;
+    margin-top: -102px;
+    color: rgb(17, 87, 167);
+    font-size: 28px;
+}
+.subtitulo3{
+    position: absolute;
+    margin-left: 425px;
+    margin-top: 400px;
+    color: rgb(29, 59, 95);
+    font-size: 18px;
+}
+.formInferior{
+    margin-top: 65px;
+}
+.formPart{
+    margin-left:525px;
+    margin-top: -413px;
+}
+body{
+    height: 2000px;
+    background-color: rgb(3, 4, 15);
+}
+.allForm{
+    margin-top: 830px;
+    margin-left: 100px;
+}
+.condicoes{
+    margin-left: -15px;
+}
+.estado{
+    width: 15px;
+    height: 15px;
+}
+.formBack{
+    width: 91%;
+    height: 1200px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 650px;
+    margin-left: 60px;
+    opacity: 100%;
+    position: absolute;
+    z-index: -1;
+    border-radius: 50px;
+    border: 2px;
+    border-style: solid;
+    border-color: rgb(114, 114, 114);
+}
+.formHelp{
+    position: absolute;
+    margin-top: -69px;
+    margin-left: 420px;
+    font-size: 17px;
+}
+.wifi{
+    position: absolute;
+    width: 1100px;
+    height: 350px;
+    margin-left: 62px;
+    margin-top: 430px;
+    z-index: 1;
+    border-radius: 20px;
+}
+
+.descri{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
